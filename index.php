@@ -26,3 +26,4 @@ if (!file_exists(APP_PATH . 'database.php')) {
 
 // 加载框架引导文件
 require __DIR__ . '/../thinkphp/start.php';
+echo 'jjm';
